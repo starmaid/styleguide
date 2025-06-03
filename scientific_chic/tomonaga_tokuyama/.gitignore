@@ -1,0 +1,54 @@
+# Ignore node_modules if using npm
+node_modules/
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore p5.js editor files
+p5js-editor/
+p5js-editor-settings.json
+
+# Ignore compiled JavaScript files (if using TypeScript or other preprocessors)
+*.js.map
+*.tsbuildinfo
+
+# Ignore any other generated files
+*.bak
+*.old
+
+*.DS_Store
+.project
+node_modules/*
+experiments/*
+lib_old/*
+lib/p5.*
+lib/modules
+docs/reference/*
+!*.gitkeep
+examples/3d/
+.idea
+dist/
+p5.zip
+bower-repo/
+p5-website/
+.vscode/settings.json
+.nyc_output/*
+coverage/
+lib/p5-test.js
+release/
+parameterData.json
+yarn.lock

@@ -11,11 +11,12 @@ function draw() {
     lights();
     orbitControl();
 
+
    
     sphere(50);
     emissiveMaterial(0,0,0,1)
 
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < frameCount%400/20; i++) {
         // Render a 2D ellipse in 3D space
         push();
         translate(0, 0, 0); // Position the ellipse in 3D space

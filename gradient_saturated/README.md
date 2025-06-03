@@ -10,10 +10,9 @@ This is the style that uses brightly colored soft gradients to make calming, smo
 
 ## Tenants
 
-    COLOUR - Move each tile to its perfect place within the spectrum
-    HARMONY - Create order out of chromatic chaos
-    PERCEPTION - Learn to see the smallest differences between shades
-    SERENITY - Lose yourself in a tranquil world of colour and light
+    COLOR - This style is colorful, first and foremost. Colors are saturated and vibrant.
+    HARMONY - Graphics are balanced and have room to breathe. Images are welcoming and soft. Glow can exist.
+    SIMPLE - Very few details, only what is absolutely necessary, and sometimes less. Elements should be hidden.
 
 ## Fonts
 
@@ -22,3 +21,7 @@ geometric, sans serif, black and white. monospace for titles.
 ## Audio
 
 Sounds like wind chimes. Ambient and evolving pads. Algorithmic, but slow.
+
+## Anti-Examples
+
+Not sure yet.
