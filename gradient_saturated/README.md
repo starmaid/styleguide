@@ -1,6 +1,6 @@
 # Gradient Saturated
 
-This is the style that uses brightly colored soft gradients to make calming, smooth, and modern looking graphics.
+This is the style that uses brightly colored soft gradients to make calming, smooth, and modern looking graphics. This style is a synthesis of Minimalism and Geometric styles, but eschewing most geometric non-text elements in favor of color.
 
 ## Examples
 

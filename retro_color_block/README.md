@@ -1,6 +1,6 @@
 # Retro Color Block
 
-This style is some combination of Swiss Style, Brutalism, and Postmoderinsm. Large sans-serif bold letters with many bright colors and fun textures. It also embodies a feeling of large companies in the 70s and 80s,
+This style is some combination of Swiss Style, Brutalism, and Postmoderinsm. Large sans-serif bold letters with many bright colors and fun textures. It also embodies a feeling of large companies in the 70s and 80s, and to make my application of this stand out, I'll apply some Grunge sensibilities.
 
 ## Examples
 
