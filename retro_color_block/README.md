@@ -2,6 +2,10 @@
 
 This style is some combination of Swiss Style, Brutalism, and Postmoderinsm. Large sans-serif bold letters with many bright colors and fun textures. It also embodies a feeling of large companies in the 70s and 80s, and to make my application of this stand out, I'll apply some Grunge sensibilities.
 
+## Uses
+
+Use this style for offroad racing, hiking, mountainbiking, climbing, outdoor robotics, things you need a helmet for, things a thinkpad would be the preferred computer.
+
 ## Examples
 
 - [NASA 1975 Styleguide](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)

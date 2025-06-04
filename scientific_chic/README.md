@@ -4,6 +4,10 @@ This style uses simple but clear text on plain baclgrounds, and plain diagrams. 
 
 > The main elements in the design [...] are layout, typography and the logotype/ signature. Other visual motifs are unnecessary... This is an area of design which is best served if the graphics are modern but not elaborate. The main function of a [document] is to convey data and information in a concise and efficient manner.
 
+## Uses
+
+Use this style when making aesthetic academic papers, plotting orbits, landing sites on a topographic map, medicine, radio, money and stocks, atomic science, things you might want a labcoat for.
+
 ## Examples
 
 - [Outliers, an RPG](https://far-horizons-co-op.itch.io/outliers)
@@ -32,8 +36,9 @@ If some flat image is desired with different colors, consider replacing it with 
 
 When rendering graphs onscreen, a fancy computer UI look can be gained with these low-pixelsize stylings.
 
-![](./img/ref.png)
+![pixel image stuff](./img/ref.png)
 
+![tomonaga2](./img/planet_orbits.gif)
 
 ## Anti-examples
 

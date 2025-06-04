@@ -15,12 +15,14 @@ function draw() {
     orbitControl();
     noLights();
 
+    frameRate(30);
+
     push();
     emissiveMaterial(0,0,0,1)
     sphere(50);
     pop();
 
-    for (let i = 0; i < frameCount%400/20; i++) {
+    for (let i = 0; i < frameCount%60/5; i++) {
         // Render a 2D ellipse in 3D space
         push();
         translate(0, 0, 0); // Position the ellipse in 3D space
@@ -32,7 +34,9 @@ function draw() {
     }
 
     drawCrosses();
-
+    if (frameCount == 60) {
+        saveGif('mySketch', 5);
+    }
 }
 
 function drawCrosses() {
